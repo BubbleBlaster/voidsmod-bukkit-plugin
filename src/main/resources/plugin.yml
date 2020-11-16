@@ -1,0 +1,6 @@
+name: VoidsMod
+version: ${project.version}
+main: voidsmod.voidsmod.Voidsmod
+api-version: 1.13
+authors: [DEC0DE]
+description: Adds some neat stuff
